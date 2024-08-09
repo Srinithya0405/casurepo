@@ -1,0 +1,11 @@
+[
+  {
+    "dropdownName": "profileHaveChildren",
+    "value": [
+      "Doesn't Matter",
+      "Living Together",
+      "No",
+      "Yes but not living together"
+    ]
+  }
+]

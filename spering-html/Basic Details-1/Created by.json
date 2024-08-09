@@ -1,0 +1,14 @@
+[
+  {
+    "dropdownName": "profileCreatedBy",
+    "value": [
+      "Any",
+      "Friend",
+      "Others",
+      "Parents",
+      "Relative",
+      "Self",
+      "Sibling"
+    ]
+  }
+]

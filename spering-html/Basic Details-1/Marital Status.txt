@@ -1,0 +1,12 @@
+[
+  {
+    "dropdownName": "profileMaritalStatus",
+    "value": [
+      "Any",
+      "Awaiting Divorce",
+      "Divorced",
+      "Never Married",
+      "Widow"
+    ]
+  }
+]

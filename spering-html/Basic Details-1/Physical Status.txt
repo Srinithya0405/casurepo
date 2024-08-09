@@ -1,0 +1,10 @@
+[
+  {
+    "dropdownName": "profilePhysicalStatus",
+    "value": [
+      "Doesn't Matter",
+      "Normal",
+      "Physically Challenged"
+    ]
+  }
+]
